@@ -11,8 +11,11 @@ It will be powered by high-current batteries (a power bank plugged into the Ardu
 
 # Here's AliExpress product links that work as of July 4, 2024 #
 [Microphone module](https://www.aliexpress.us/item/3256803832972502.html?spm=a2g0o.order_list.order_list_main.39.5a311802kwjAgN&gatewayAdapt=glo2usa)
+
 [Bipolar boost power module 12V](https://www.aliexpress.us/item/3256805006736981.html?spm=a2g0o.order_list.order_list_main.129.5a311802kwjAgN&gatewayAdapt=glo2usa)
+
 [LED constant current driver](https://www.aliexpress.us/item/3256805730202828.html?spm=a2g0o.order_list.order_list_main.158.5a311802kwjAgN&gatewayAdapt=glo2usa)
+
 [RGB LED strip (project uses 144 LEDs)](https://www.aliexpress.us/item/3256805387967621.html?spm=a2g0o.order_list.order_list_main.171.5a311802kwjAgN&gatewayAdapt=glo2usa)
 
 Uses a micro-toggle switch, 3 sealed-style potentiometers, a Thonkiconn-style 3.5mm audio jack to plug in an audio signal (interrupts the mic signal when plugged in), there's pads to connect other 5V devices like more LED strings (twinkle-lights) or a fan or two.
